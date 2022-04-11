@@ -1,6 +1,7 @@
 # Prediction Weight Using Linear Regression
 
-AI Mastery Program Orbit
+# AI Mastery Program Orbit
+
 Nama : 
 1. Rafly Ramadhani Putra
 2. Yazqi Mumtaz Rafifa
