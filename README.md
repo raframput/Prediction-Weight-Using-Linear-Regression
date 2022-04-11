@@ -3,7 +3,7 @@
 AI Mastery Program Orbit
 Nama : 
 1. Rafly Ramadhani Putra
-2. 
+2. Yazqi Mumtaz Rafifa
 Kelas : Asimo
 
 1. Github : https://github.com/raframput/Prediction-Weight-Using-Linear-Regression
