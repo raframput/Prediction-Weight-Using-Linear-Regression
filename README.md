@@ -6,6 +6,6 @@ Nama :
 2. 
 Kelas : Asimo
 
-Github : https://github.com/raframput/Prediction-Weight-Using-Linear-Regression
-Deploy : predictionweightorbit.herokuapp.com
-Dataset : https://www.kaggle.com/code/devprabal/bmi-prediction-of-health-status/data
+1. Github : https://github.com/raframput/Prediction-Weight-Using-Linear-Regression
+2. Deploy : https://predictionweightorbit.herokuapp.com
+3. Dataset : https://www.kaggle.com/code/devprabal/bmi-prediction-of-health-status/data
